@@ -1,0 +1,51 @@
+form
+{
+    font-size: 15px;
+    background-image: linear-gradient(to right, aquamarine, white);
+    max-width: 500px;
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+form label
+{
+    margin-left: 20px;
+    color: #000;
+    font-weight: bold;
+}
+h1
+{
+    margin-bottom: 20px;
+}
+input,textarea
+{
+    width: 250px;
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+}
+input:hover,textarea:hover
+{
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #ffff00;
+    font-weight: bold;
+}
+textarea
+{
+    width: 300px;
+    height: 120px;
+    line-height: 20px;
+}
+.submit input:hover
+{
+    background-color: #7e7ee3;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 200px;
+}
+.maps
+{
+    width: 600px;
+    height: 600px;
+    margin-left: 40%;
+}
